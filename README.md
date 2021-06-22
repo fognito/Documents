@@ -30,7 +30,7 @@
 
 `@fanamo`  
 
-[GitHubの使い方](./fanamo/001_GitHUb_QuickStart.md)
+[GitHubの使い方](./fanamo/GitHUb_QuickStart.md)
 
 
 `@ `  
